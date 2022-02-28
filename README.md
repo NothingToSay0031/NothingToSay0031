@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Christina0031's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christin0031&count_private=true&show_icons=true&theme=prussian)
+![Christina0031's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christina0031&count_private=true&show_icons=true&theme=prussian)
 
 
 <!--
