@@ -3,7 +3,22 @@
 
 ![Christina0031's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christina0031&count_private=true&show_icons=true&theme=github_dark)
 
+CS Course Self-study Schedule
 
+- [x] CS61A
+- [x] CS61B
+- [x] 15-213
+- [ ] CS106L
+- [ ] CS61C
+- [ ] CS162
+- [ ] 15-445
+- [ ] CS144
+- [ ] Highlights of Calculus
+- [ ] The Missing Semester
+-  18.01 18.02
+-  18.06
+-  CS70
+-  CS170
 <!--
 ### Hi there 👋
 
