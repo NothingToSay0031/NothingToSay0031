@@ -8,7 +8,7 @@ CS Course Self-study Schedule
 - [x] CS61A
 - [x] CS61B
 - [x] 15-213
-- [ ] CS106L
+- [x] CS106L
 - [ ] CS61C
 - [ ] CS162
 - [ ] 15-445
