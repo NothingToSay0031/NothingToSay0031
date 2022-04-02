@@ -3,7 +3,7 @@
 
 ![Christina0031's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christina0031&count_private=true&show_icons=true&theme=github_dark)
 
-CS Course Self-study Schedule
+CS Courses Self-study Schedule
 
 - [x] [CS61A](https://christina0031.github.io/2021/10/CS61A/)
 - [x] [CS61B](https://christina0031.github.io/2022/01/CS61B/)
