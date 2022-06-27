@@ -11,8 +11,9 @@ CS Courses Self-study Schedule
 - [x] [CS106L](https://christina0031.github.io/2022/03/CS106L/)
 - [x] [Highlights of Calculus](https://christina0031.github.io/2022/04/Highlights-of-Calculus/) 
 - [x] [CS61C](https://christina0031.github.io/2022/04/CS61C/)
+- [x] CS186
 - [ ] CS162
-- [ ] 15-445 CS186
+- [ ] 15-445
 - [ ] CS70
 - [ ] CS170
 - [ ] 18.01 18.02
