@@ -16,8 +16,7 @@ CS Courses Self-study Schedule
 - [ ] 15-445
 - [ ] CS70
 - [ ] CS170
-- [ ] 18.01 18.02
-- [ ] 18.06
+- [ ] 18.01 18.02 18.06
 - [ ] The Missing Semester
 -  ===============
 -  CS161
