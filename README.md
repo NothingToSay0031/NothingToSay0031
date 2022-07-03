@@ -14,15 +14,16 @@ CS Courses Self-study Schedule
 - [x] CS186
 - [ ] CS162
 - [ ] 15-445
-- [ ] CS70
-- [ ] CS170
-- [ ] 18.01 18.02 18.06
-- [ ] The Missing Semester
+- [ ] 18.01 18.02 18.06 
+- [ ] Statistics 110
 -  ===============
+- [ ] CS70 / 6.042J
+- [ ] CS170
+- [ ] The Missing Semester
 -  CS161
--  CS143 / CS164
+- [ ] CS143 / CS164
 -  6.031 / CS169
--  CS152
+- [ ] CS152
 -  6.824
 -  15-418 ?
 -  CS144 ?
