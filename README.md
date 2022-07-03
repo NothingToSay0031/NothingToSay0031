@@ -14,6 +14,7 @@ CS Courses Self-study Schedule
 - [x] CS186
 - [ ] CS162
 - [ ] 15-445
+- [ ] Systems Programming in C++
 - [ ] 18.01 18.02 18.06 
 - [ ] Statistics 110
 -  ===============
