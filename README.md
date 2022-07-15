@@ -12,11 +12,10 @@ CS Courses Self-study Schedule
 - [x] [Highlights of Calculus](https://christina0031.github.io/2022/04/Highlights-of-Calculus/) 
 - [x] [CS61C](https://christina0031.github.io/2022/04/CS61C/)
 - [x] CS186
-- [ ] CS162
+- [x] CS162
 - [ ] 15-445
 - [ ] Systems Programming in C++
-- [ ] 18.01 18.02 18.06 
-- [ ] Statistics 110
+- [ ] Pintos
 -  ===============
 - [ ] CS70 / 6.042J
 - [ ] CS170
@@ -28,6 +27,8 @@ CS Courses Self-study Schedule
 -  6.824
 -  15-418 ?
 -  CS144 ?
+- [ ] 18.01 18.02 18.06 
+- [ ] Statistics 110
 <!--
 ### Hi there 👋
 
