@@ -19,11 +19,11 @@ CS Courses Self-study Schedule
 -  ===============
 - [ ] CS70 / 6.042J
 - [ ] CS170
-- [ ] The Missing Semester
--  CS161
+- [ ] CS161
 - [ ] CS143 / CS164
--  6.031 / CS169
 - [ ] CS152
+-  6.031 / CS169
+-  The Missing Semester
 -  6.824
 -  15-418 ?
 -  CS144 ?
