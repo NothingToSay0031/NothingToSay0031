@@ -13,12 +13,12 @@ CS Courses Self-study Schedule
 - [x] [CS61C](https://christina0031.github.io/2022/04/CS61C/)
 - [x] CS186
 - [x] CS162
-- [ ] 15-445
-- [ ] Systems Programming in C++
-- [ ] Pintos
+- [x] 15-445
+- [x] Systems Programming in C++
+- [x] Pintos
+- [x] CS70 / 6.042J
+- [x] CS170
 -  ===============
-- [ ] CS70 / 6.042J
-- [ ] CS170
 - [ ] CS161
 - [ ] CS143 / CS164
 - [ ] CS152
