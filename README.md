@@ -11,24 +11,13 @@ CS Courses Self-study Schedule
 - [x] [CS106L](https://christina0031.github.io/2022/03/CS106L/)
 - [x] [Highlights of Calculus](https://christina0031.github.io/2022/04/Highlights-of-Calculus/) 
 - [x] [CS61C](https://christina0031.github.io/2022/04/CS61C/)
-- [x] CS186
-- [x] CS162
-- [x] 15-445
+- [x] CS186/15-445
+- [x] CS162/Pintos
 - [x] Systems Programming in C++
-- [x] Pintos
-- [x] CS70 / 6.042J
+- [x] CS70
 - [x] CS170
--  ===============
-- [ ] CS161
-- [ ] CS143 / CS164
-- [ ] CS152
--  6.031 / CS169
--  The Missing Semester
+-  6.031
 -  6.824
--  15-418 ?
--  CS144 ?
-- [ ] 18.01 18.02 18.06 
-- [ ] Statistics 110
 <!--
 ### Hi there 👋
 
