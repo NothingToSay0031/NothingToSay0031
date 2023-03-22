@@ -1,7 +1,4 @@
-
-### Hi there 👋,I'm Christina0031.
-
-- You are my ![Visitor Count](https://profile-counter.glitch.me/Christina0031/count.svg) visitor,Thank You!
+## Don't Compare.
 
 - [My Blog 💗](https://christina0031.github.io/)
 
